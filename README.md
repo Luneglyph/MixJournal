@@ -1,6 +1,8 @@
 # MixJournal
 Aplicação de registro de álbuns musicais.
 
+Trabalho para disciplica de Construção de Aplicações em Ambiente Virtual no TADS IFPR Londrina, 2025.
+
 **Introdução – explicando o tema do projeto**
 
 A aplicação **MixJournal** visa criar uma plataforma de uso individual focada no registro de álbuns musicais ouvidos pelo usuário, funcionando como um diário pessoal de experiências musicais.
