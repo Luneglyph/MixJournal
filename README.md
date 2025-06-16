@@ -35,7 +35,7 @@ Tela principal onde os álbuns registrados são exibidos com miniaturas e dados 
     - Artista (agrupar por artista);
     - Nota (ordem crescente ou decrescente).
 
-2. Novo registro
+2. **Novo registro**
 
 Tela para cadastrar um novo álbum. Os campos serão:
 
@@ -49,7 +49,7 @@ Tela para cadastrar um novo álbum. Os campos serão:
 - Review textual;
 - Palavras-chave (opcional).
 
-### 3. **Tela de gráficos**
+3. **Tela de gráficos**
 
 Tela que exibirá visualizações estatísticas com base nos dados cadastrados. Os gráficos incluirão:
 
