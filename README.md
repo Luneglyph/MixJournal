@@ -11,7 +11,7 @@ Também será possível acessar uma tela de feedback, onde o usuário visualizar
 
 Os gráficos serão implementados com a biblioteca **Matplotlib**, utilizando visualizações em barras ou pizza, com dados como gêneros mais ouvidos e artistas mais bem avaliados.
 
-A persistência dos dados será feita localmente por meio de arquivos em formato **JSON**, garantindo que os registros sejam mantidos entre sessões.
+A persistência dos dados será feita localmente por meio do MongoDB, garantindo que os registros sejam mantidos entre sessões.
 
 **Objetivos (geral e específicos em ordem de prioridade)**
 
